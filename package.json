@@ -1,5 +1,5 @@
 {
-  "name": "template-ts-hedera-cra-dapp",
+  "name": "cra-template-hedera-dapp",
   "version": "1.0.1",
   "keywords": [
     "react",
@@ -14,7 +14,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hedera-dev/cra-hedera-dapp-template",
+    "url": "https://github.com/walkerlj0/cra-template-hedera-dapp",
     "directory": ""
   },
   "license": "Apache-2.0",
